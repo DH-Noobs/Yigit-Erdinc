@@ -1,4 +1,4 @@
-# Yigit-Erdinc
+# Yiğit Erdinç
 
 Projects
 
